@@ -1,5 +1,5 @@
 # 💫 About Me:
-Merhaba, ben Fatih , sistem izleme konusuna odaklanıyorum ve bu alanda deneyim sahibiyim. Monitoring engineering konusunda çalışmalar yapıyorum. Aynı zamanda devops süreçleri ile de ilgilenmekteyim. Bu hususta da yapmış olduğum çalışmalara bu repo üzerinden erişebilirsiniz.
+Merhaba, ben Fatih , sistem izleme konusuna odaklanıyorum ve bu alanda deneyim sahibiyim. Monitoring engineering olarak çalışmalar yapıyorum. Aynı zamanda devops süreçleri ile de ilgilenmekteyim. Bu hususta da yapmış olduğum çalışmalara bu repo üzerinden erişebilirsiniz.
 
 
 ## 🌐 Socials:
